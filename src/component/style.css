@@ -1,0 +1,25 @@
+.header {
+  border-bottom: 2px solid #9b9b9b;
+}
+.item {
+  border: 1px solid rgb(204, 204, 204);
+  border-radius: 3px;
+}
+.icon {
+  text-align: end;
+  color: red;
+  transition: all 0.3s linear;
+}
+.edit {
+  font-size: 30px;
+  margin-right: 10px;
+}
+.form-control {
+  font-size: 1.5rem;
+}
+.search {
+  font-size: 1.75rem;
+  margin: auto;
+  color: #696868;
+  margin-left: -45px;
+}
